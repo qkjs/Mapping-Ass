@@ -75,7 +75,7 @@ extension SecondViewController: UIPickerViewDelegate, UIPickerViewDataSource
     }
     
 }
-
+/*
 extension SecondViewController: UITableViewDataSource, UITableViewDelegate
 {
     func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int
@@ -83,10 +83,10 @@ extension SecondViewController: UITableViewDataSource, UITableViewDelegate
         return 1
     }
 
-/*
+
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell
     {
         
     }
-*/
 }
+*/
